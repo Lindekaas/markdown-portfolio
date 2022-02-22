@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+## Hobby's & Skills
+
+* Hobby's
+  * Photography
+  * Architecture
+  * Games
+
+* Skills
+  * Web design
+  * Allround media design
